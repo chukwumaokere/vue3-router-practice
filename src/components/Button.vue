@@ -27,7 +27,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
     button{ 
         padding: 12px 20px;
         font-size: 1.2rem;
@@ -39,5 +39,8 @@ export default {
     }
     .client-red{
         background-color: rgb(163, 25, 25) !important;
+    }
+    .hello{
+        font-size: 30rem;
     }
 </style>
