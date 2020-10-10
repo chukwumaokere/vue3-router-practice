@@ -40,7 +40,4 @@ export default {
     .client-red{
         background-color: rgb(163, 25, 25) !important;
     }
-    .hello{ 
-        font-size: 30rem;
-    }
 </style>
